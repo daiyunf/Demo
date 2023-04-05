@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello git!");
         System.out .println("hello git2!");
         System.out.println("hello git3!");
-        System .out.println("hello giit4!");
+        System .out.println("hello git4!");
+        System .out .println("hot-fix test!");
     }
 }
