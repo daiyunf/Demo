@@ -7,5 +7,6 @@ public class Main {
         System .out .println("hot-fix test!");
         System.out.println("push test");
         System.out.println("push 2");
+        System.out.println("pull 1");
     }
 }
